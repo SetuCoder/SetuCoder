@@ -37,6 +37,8 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
 	</ul>	
 </details>
 
+<hr/>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
