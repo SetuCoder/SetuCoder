@@ -28,9 +28,10 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
   	    <li><b>OS:</b> Windows 10 ver.2004</li>
 	    <li><b>Laptop: </b> ASUS VivoBook 14 X412DA (Ryzen 5)</li>
   	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Code Editor:</b> VSCode ❤</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
-	    <br />
+	    <li><b>Code Editor:</b> VSCode ❤, Snack Editor</li>
+            <li><b>Cleverly using Windows Terminal instead of Command Prompt 🤣</li>
+		<li><b>Appetize.io for App Testing Purpose</li>
+	    <br/>
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
