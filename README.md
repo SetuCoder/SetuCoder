@@ -36,3 +36,9 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
