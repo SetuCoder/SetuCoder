@@ -33,8 +33,6 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
 	    <li><b>Code Editor:</b> VSCode ❤, Snack Editor</li>
             <li><b>Cleverly using Windows Terminal instead of Command Prompt 🤣</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
-	    <br/>
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
