@@ -42,6 +42,6 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some my repositories & following me 😉!
 
 </div>
