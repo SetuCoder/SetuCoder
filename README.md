@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SetuCoder&color=green)
 &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
-&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-#E62117)](https://www.youtube.com/channel/UCk9NemgIV0TcGEtvrqU4kOA) 
+&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCk9NemgIV0TcGEtvrqU4kOA) 
 
 I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶!
 
