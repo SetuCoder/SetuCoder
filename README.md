@@ -36,6 +36,8 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
 	</ul>	
 </details>
 
+#### Not only the pinned projects, but there are a lot more projects to explore 😎!
+
 <hr/>
 
 <div align="center">
