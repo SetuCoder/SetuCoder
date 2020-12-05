@@ -5,7 +5,7 @@
 &nbsp; ![GitHub](https://img.shields.io/github/followers/SetuCoder?label=Follow%20Me%21&style=social)
 &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
 
-I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶!
+I am a tech enthusiast 💻  who loves programming & making videos on YouTube ▶ !
 
 ### Languages and FrameWorks:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -30,7 +30,7 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
   	    <li><b>OS:</b> macOS Big Sur 11.0.1 (buggy lol)</li>
 	    <li><b>Laptop: </b> 2017 MacBook Air (i5)</li>
   	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Snack Editor</li>
+	    <li><b>Code Editor:</b> VSCode ❤ , Snack Editor</li>
             <li><b>macOS Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
