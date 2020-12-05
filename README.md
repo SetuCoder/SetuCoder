@@ -27,11 +27,11 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 ver.2004</li>
-	    <li><b>Laptop: </b> ASUS VivoBook 14 X412DA (Ryzen 5)</li>
+  	    <li><b>OS:</b> macOS Big Sur 11.0.1 (buggy lol)</li>
+	    <li><b>Laptop: </b> 2017 MacBook Air (i5)</li>
   	    <li><b>Browser: </b> Chrome & Firefox</li>
 	    <li><b>Code Editor:</b> VSCode ❤, Snack Editor</li>
-            <li><b>Cleverly using Windows Terminal instead of Command Prompt 🤣</li>
+            <li><b>macOS Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 </details>
@@ -42,6 +42,6 @@ I am a tech enthusiast 💻 who loves programming & making videos on YouTube ▶
 
 <div align="center">
 
-### Show some  ❤️   by starring my repositories & following me 😉 !
+### Show some ❤️ by starring my repositories & following me 😉 !
 
 </div>
