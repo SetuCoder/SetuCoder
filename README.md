@@ -6,6 +6,7 @@
 &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
 
 I am a tech enthusiast 💻  who loves programming & making videos on YouTube ▶ !
+**Check Out My Profile Here: setusree.carrd.co**
 
 ### Languages and FrameWorks:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
