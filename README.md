@@ -29,12 +29,12 @@ I am a tech enthusiast 💻  who loves programming & making videos on YouTube �
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Big Sur 11.0.1 (buggy lol)</li>
+  	    <li><b>OS:</b> macOS Big Sur 11.1(buggy lol, hoping 11.2 to be better 🤞)</li>
 	    <li><b>Laptop: </b> 2017 MacBook Air (i5)</li>
   	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Code Editor:</b> VSCode ❤ , Snack Editor</li>
+	    <li><b>Code Editor:</b> VSCode ❤ , PyCharm and Snack Editor</li>
             <li><b>macOS Terminal with node.js, python & git</li>
-		<li><b>Appetize.io for App Testing Purpose</li>
+		<li><b>Appetize.io and my oldie-goldie phone for App Testing Purpose</li>
 	</ul>	
 </details>
 
