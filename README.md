@@ -29,7 +29,7 @@ I am a tech enthusiast 💻  who loves programming & making videos on YouTube �
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Big Sur 11.1(buggy lol, hoping 11.2 to be better 🤞)</li>
+  	    <li><b>OS:</b> macOS Big Sur 11.2.1 (Thankfully, a bit less buggy than 11.1)</li>
 	    <li><b>Laptop: </b> 2017 MacBook Air (i5)</li>
   	    <li><b>Browser: </b> Chrome & Firefox</li>
 	    <li><b>Code Editor:</b> VSCode ❤ , PyCharm and Snack Editor</li>
