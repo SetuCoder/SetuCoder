@@ -5,7 +5,7 @@
 &nbsp; ![GitHub](https://img.shields.io/github/followers/SetuCoder?label=Follow%20Me%21&style=social)
 &nbsp; [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/setusteknow/) 
 
-I am a tech enthusiast 💻  who loves programming & making videos on YouTube ▶ !
+I'm a tech enthusiast who loves programming & making videos on YouTube!
 
 **Check Out My Profile Here:** [https://setusree.carrd.co/](https://setusree.carrd.co/)
 
