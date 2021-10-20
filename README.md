@@ -43,10 +43,10 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/GK3YKXZZ8V46">Using Python to Interact with the Operating System </a> </ol>
 </details>
 
-#### ➠ Not only the pinned projects, but there are a lot more projects to explore 😎!
+#### ➠ Not only the pinned projects, but there are a lot more projects to explore!
 
 <hr/>
 	  
 <div align="center">
-### Show some ❤️ by starring my repositories & following me 😉 !
+	### Show some ❤️ by starring my repositories & following me 😉 !
 </div>
