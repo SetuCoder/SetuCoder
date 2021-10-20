@@ -48,5 +48,7 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 <hr/>
 	  
 <div align="center">
+	
 	### Show some ❤️ by starring my repositories & following me 😉 !
+	
 </div>
