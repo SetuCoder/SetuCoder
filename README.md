@@ -19,14 +19,14 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 
 ### Projects and Dev Stuff:
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡  Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetuCoder&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️  Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> macOS Big Sur (main)</li>
 	    <li><b>Laptop: </b> MacBook Air 2017 (i7, 256) and Acer Swift 5 (i5, 512)</li>
@@ -37,7 +37,7 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 </details>
 
 <details>
-  <summary><b>📝 Recent Certifications</b></summary>
+  <summary><b>📝  Recent Certifications</b></summary>
 	<ol><b>Google IT Automation with Python [Coursera]:</b> <br/> <ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN">Crash Course on Python</a> <br/> </ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/GK3YKXZZ8V46">Using Python to Interact with the Operating System </a> </ol>
