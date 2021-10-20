@@ -9,7 +9,7 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 
 **Check Out My Profile Here:** [https://setusree.carrd.co/](https://setusree.carrd.co/)
 
-### Languages and FrameWorks:
+### Languages and Frameworks:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -20,7 +20,6 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 ### Projects and Dev Stuff:
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetuCoder&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetuCoder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
@@ -38,13 +37,10 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 </details>
 
 <details>
-  <br />
   <summary><b>📝 Recent Certifications</b><summary>
-	<ul>
             <b>Google IT Automation with Python [Coursera]:</b> <br/>
 	    <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN">Crash Course on Python</a> <br/>
 	    <a href="https://www.coursera.org/account/accomplishments/verify/GK3YKXZZ8V46">Using Python to Interact with the Operating System </a>
-	</ul>
 </details>
 
 #### ➠ Not only the pinned projects, but there are a lot more projects to explore 😎!
