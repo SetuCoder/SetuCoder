@@ -41,17 +41,16 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
   <br />
   <summary><b>📝 Recent Certifications</b><summary>
 	<ul>
-            <b>Google IT Automation with Python:</b> <br/>
-	    <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN"> Crash Course on Python </a>
+            <b>Google IT Automation with Python [Coursera]:</b> <br/>
+	    <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN">Crash Course on Python</a>
+	    <a href="https://www.coursera.org/account/accomplishments/verify/GK3YKXZZ8V46">Using Python to Interact with the Operating System </a>
 	</ul>
 </details>
 
 #### ➠ Not only the pinned projects, but there are a lot more projects to explore 😎!
 
 <hr/>
-
+	  
 <div align="center">
-
 ### Show some ❤️ by starring my repositories & following me 😉 !
-
 </div>
