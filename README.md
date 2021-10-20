@@ -42,7 +42,7 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
   <summary><b>📝 Recent Certifications</b><summary>
 	<ul>
             <b>Google IT Automation with Python:</b>
-	    [https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN](Crash Course on Pyhon)
+	    <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN"> Crash Course on Python </a>
 	</ul>
 </details>
 
