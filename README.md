@@ -37,6 +37,13 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 	</ul>	
 </details>
 
+<details>
+  <br/>
+	<summary> <b> 📝 Recent Certifications </b> <summary>
+		<ul>
+		</ul>
+		</details>
+
 #### ➠ Not only the pinned projects, but there are a lot more projects to explore 😎!
 
 <hr/>
