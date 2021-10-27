@@ -41,6 +41,7 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 	    <ol><b>Google IT Automation with Python [Coursera]:</b> <br/> <ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN">Crash Course on Python</a> <br/> </ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/GK3YKXZZ8V46">Using Python to Interact with the Operating System </a> </ol>
+	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/TVWRJTVCT94T">Introduction to Git and GitHub</a> </ol>
 </details>
 
 #### ➠ Not only the pinned projects, but there are a lot more projects to explore!
