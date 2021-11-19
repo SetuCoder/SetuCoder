@@ -38,7 +38,7 @@ I'm a tech enthusiast who loves programming & making videos on YouTube!
 
 <details>
   <summary><b>📝  Recent Certifications</b></summary>
-	    <ol><b>Google IT Automation with Python [Coursera]:</b> <br/> <ol>
+	    <ol><b> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VU2D3K75SC3D"> Google IT Automation with Python [Coursera]:</a> </b> <br/> <ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/P6ADVYCYJFHN">Crash Course on Python</a> <br/> </ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/GK3YKXZZ8V46">Using Python to Interact with the Operating System </a> </ol>
 	    <ol> <a href="https://www.coursera.org/account/accomplishments/verify/TVWRJTVCT94T">Introduction to Git and GitHub</a> </ol>
